@@ -9,3 +9,7 @@ function foo2() {
 function foo3() {
   console.log('foo');
 }
+
+function foo4() {
+  console.log('foo');
+}

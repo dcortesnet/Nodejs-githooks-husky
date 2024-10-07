@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint .",
     "test": "jest",
-    "release": "standard-version && sh -c 'git push --force --set-upstream origin $(git branch --show-current) --follow-tags --no-verify'",
+    "release": "standard-version && sh -c 'git pull origin $(git branch --show-current) && git push --force --set-upstream origin $(git branch --show-current) --follow-tags --no-verify'",
     "prepare": "husky install",
     "pre-commit": "npm run lint && npm run test",
     "pre-push": "npm run release"
