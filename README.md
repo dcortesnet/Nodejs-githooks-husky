@@ -5,7 +5,7 @@ Basic example with GitHooks and Husky. This repository is part of a self-taught 
 ## Install
 
 ```bash
-> npm install
+npm install
 ```
 
 ## Team
