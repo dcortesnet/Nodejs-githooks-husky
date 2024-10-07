@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.13](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.5.12...v1.5.13) (2024-10-07)
+
 ### [1.5.12](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.5.11...v1.5.12) (2024-10-07)
 
 ### [1.5.11](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.5.10...v1.5.11) (2024-10-07)
