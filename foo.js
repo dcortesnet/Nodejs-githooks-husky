@@ -17,3 +17,7 @@ function foo4() {
 function foo6() {
   console.log('foo');
 }
+
+function foo7() {
+  console.log('foo');
+}
