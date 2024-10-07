@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.7.0...v1.8.0) (2024-10-07)
+
+
+### Features
+
+* new method 2 ([dac8a38](https://github.com/dcortesnet/Nodejs-githooks-husky/commit/dac8a38db8bb50c99624e1771f7bb8722bb3f343))
+
 ## [1.7.0](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.6.1...v1.7.0) (2024-10-07)
 
 
