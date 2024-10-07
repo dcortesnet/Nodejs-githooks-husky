@@ -12,4 +12,4 @@ npm install
 
 Developed by Diego Cortés
 
-- dcortes.net@gmail.com
+- <dcortes.net@gmail.com>
