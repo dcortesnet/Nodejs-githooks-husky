@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.2](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.5.1...v1.5.2) (2024-10-07)
+
+
+### Bug Fixes
+
+* corrc ([2b4fca0](https://github.com/dcortesnet/Nodejs-githooks-husky/commit/2b4fca09ba763d9feb3b375cfc76cc99ac84a005))
+* remove inct ([0af073d](https://github.com/dcortesnet/Nodejs-githooks-husky/commit/0af073d3d5e9e5b0519a0a206a5d0c6f5a8c1881))
+
 ### [1.5.1](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.5.0...v1.5.1) (2024-10-07)
 
 ## [1.5.0](https://github.com/dcortesnet/Nodejs-githooks-husky/compare/v1.4.1...v1.5.0) (2024-10-07)
